@@ -5,7 +5,7 @@
 #main{
 	width:500px;
 	height: 600px;
-	background:var(--maincolor);
+	background-color:var(--maincolor);
 }
 #list{
 	width:50vh;
